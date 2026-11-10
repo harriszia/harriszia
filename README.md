@@ -1,16 +1,14 @@
-## Hi there 👋
+# Harris Zia
 
-<!--
-**harriszia/harriszia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student in Computer Science & AI, focused on machine learning, cloud systems, and scalable data applications.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Coursework in applied machine learning, systems programming, and data science
+- Project-based work in Python and C
+- Experience in Web Development
+- Interested in keeping up with Tech/AI news
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+**Languages & Libraries:** Python, C, Java, React, NumPy, pandas
+**Tools:** Git, Linux, Docker, PostgreSQL
+
